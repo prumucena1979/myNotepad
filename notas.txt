@@ -1,4 +1,4 @@
 "my firt notes in github" 
 dei uma alteradinha agora
-Esta linha foi adicionada diretamente no GitHub!
+Esta linha foi adicionada diretamente no GitHub!:
 
